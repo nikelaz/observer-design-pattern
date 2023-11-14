@@ -2,7 +2,7 @@
 
 A simple C++ implementation of the observer design pattern. An educational resource, accompanying a YouTube video on the topic:
 
-`<upcomming-youtube-video-url>`
+[Observer Design Pattern: Theoretical Overview and Implementation in C++](https://www.youtube.com/watch?v=BCRwtE9BPFY)
 
 ## Build Dependencies
 
